@@ -4,4 +4,5 @@ use warnings;
 say "idatzi zerbait";
 my $name = <STDIN>;
 chomp $name;
-say "Esandakoa $name da";
+say "Esandakoa";
+say " $name da";
