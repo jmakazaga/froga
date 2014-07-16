@@ -6,6 +6,7 @@ char buf[80];
 
 printf("idatzi zerbait\n");
 scanf("%s",&(buf[0]));
-printf("idatzitakoa %s da\n",buf);
+printf("esandakoa:\n");
+printf(" %s\nda\n",buf);
 }
 
