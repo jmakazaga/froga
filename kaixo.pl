@@ -1,4 +1,7 @@
 use 5.010;
 use strict;
 use warnings;
-say "kuku mundua";
+say "idatzi zerbait";
+my $name = <STDIN>;
+chomp $name;
+say "Esandakoa $name da";

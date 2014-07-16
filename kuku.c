@@ -2,6 +2,10 @@
 
 main(int argc, char * argv[])
 {
-printf("kuku mundua\n");
+char buf[80];
+
+printf("idatzi zerbait\n");
+scanf("%s",&(buf[0]));
+printf("idatzitakoa %s da\n",buf);
 }
 
