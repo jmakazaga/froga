@@ -5,4 +5,5 @@ say "idatzi zerbait";
 my $name = <STDIN>;
 chomp $name;
 say "Esandakoa";
-say " $name da";
+say " $name";
+say "da";
