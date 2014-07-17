@@ -6,7 +6,7 @@ char buf[80];
 
 printf("idatzi zerbait\n");
 scanf("%s",&(buf[0]));
-printf("Esandakoa(masterrekoa):\n");
+printf("Esandakoa(masterrekoa + commit):\n");
 printf(" %s\nda\n",buf);
 }
 
